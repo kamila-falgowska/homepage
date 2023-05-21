@@ -1,0 +1,30 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: #222;
+    background-color: #ffffff;
+    margin: 0;
+}
+
+.body--beige {
+    color: #31231e;
+    background-color: #f9f4f2;
+}
+
+.button {
+    background-color: #967164;
+    color: #ffffff;
+    padding: 20px;
+    border: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    cursor: pointer;
+}

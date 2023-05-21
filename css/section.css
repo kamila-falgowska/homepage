@@ -1,0 +1,12 @@
+.section {
+    padding: 5px 0;
+    line-height: 1.5;
+}
+
+.section__subHeader {
+    color: #967164;
+}
+
+.section__tableConteiner {
+    overflow-x: auto;
+}
