@@ -3,9 +3,7 @@
 ## Demo
 https://kamila-falgowska.github.io/homepage/
 ## Description
- The webpage is intended to introduce myself, my skills, and interests. 
-
-My website is designed with simplicity and readability in mind. The website is fully responsive and adapts seamlessly to different screen sizes and devices. 
+Welcome to my first project! The webpage is intended to introduce myself, my skills, and interests. My project is designed with simplicity and readability in mind. The website is fully responsive and adapts seamlessly to different screen sizes and devices. 
 
 ## Technologies used
 - HTML
