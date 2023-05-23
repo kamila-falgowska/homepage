@@ -1,5 +1,5 @@
 # Kamila Falgowska - My first Website
-![Kamila](https://i.postimg.cc/02YF7H3j/Strona.jpg)
+![Kamila](https://i.postimg.cc/h4yNpkNs/image.png)
 ## Demo
 https://kamila-falgowska.github.io/homepage/
 ## Description
