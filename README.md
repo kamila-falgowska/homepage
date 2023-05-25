@@ -10,6 +10,8 @@ https://kamila-falgowska.github.io/homepage/
 
 Welcome to my first project! The webpage is intended to introduce myself, my skills, and interests. My project is designed with simplicity and readability in mind. The website is fully responsive and adapts seamlessly to different screen sizes and devices. 
 
+![Page](gif/Animation.gif)
+
 ## Technologies used
 
 - HTML
