@@ -1,10 +1,23 @@
-console.log("Cześć!");
+{
+    const welcome = () => {
+        console.log("Cześć!");
+    }
+    
+    const onChangeBackgroundClick = () => {
+        const body = document.querySelector(".body");
+        const themeName = document.querySelector(".js-themeName");
+        
+        body.classList.toggle("body--beige");
+        themeName.innerText = body.classList.contains("body--beige") ? "biały" : "beżowy";
+    };
 
-let button = document.querySelector(".js-button");
-let body = document.querySelector(".body");
-let themeName = document.querySelector(".js-themeName");
+    const init = () => {
+        const button = document.querySelector(".js-button");
+        button.addEventListener("click", onChangeBackgroundClick);
 
-button.addEventListener("click", () => {
-    body.classList.toggle("body--beige");
-    themeName.innerText = body.classList.contains("body--beige") ? "biały" : "beżowy";
-});
+        welcome ();
+    };
+
+    init();
+    
+}
