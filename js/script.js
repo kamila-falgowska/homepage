@@ -4,7 +4,7 @@
     }
     
     const onChangeBackgroundClick = () => {
-        const body = document.querySelector(".body");
+        const body = document.querySelector(".js-body");
         const themeName = document.querySelector(".js-themeName");
         
         body.classList.toggle("body--beige");
